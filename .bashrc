@@ -1,4 +1,4 @@
-#Credit to http://bit.ly/1xeEHO1
+#Credit to thread here - http://bit.ly/1xeEHO1
 #!/bin/bash
 iatest=$(expr index "$-" i)
 
